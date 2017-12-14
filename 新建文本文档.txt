@@ -1,0 +1,8 @@
+1. 本地新建文件夹
+2. 文件夹内右键 git bash
+3. 向文件夹内添加文件
+3. 输入命令 git add * 将所有文件添加到缓存区
+4. git commit -m "XXXX"   提交到本地仓库
+5. 绑定远程仓库 git remote add origin 远程仓库地址  、、 git remote add 远程仓库名 远程仓库地址
+6. git push origin master  // git push 远程仓库名 远程分支
+7. git pull 
